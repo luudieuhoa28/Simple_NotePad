@@ -1,5 +1,5 @@
 # Welcome to Hoa's reporitory
-This respository contains a simple Java application used to simulating simple note pad application with functions: new, open, save, save as, exit, select all, cut, copy, paste, undo, redo, find, replace, change font.
+This respository contains a simple Java application used to simulate simple note pad application with functions: new, open, save, save as, exit, select all, cut, copy, paste, undo, redo, find, replace, change font.
 
 ## Connect me via:
 1. [GitHub](http:https://github.com/luudieuhoa28)
